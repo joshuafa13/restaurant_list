@@ -27,4 +27,4 @@ A web app created by Node.js and Express to search for restaurants.
 - download npm
   `npm install`
 - run with nodemon
-  type in terminal `npm run dev`
+  `npm run dev`
